@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Ran</strong> Liu
-description: Chief Data Scientist, <a href="MARi">https://mari.com/</a>.
+title: Ran <strong>Liu</strong>
+description: Chief Data Scientist, <a href="https://mari.com/">MARi</a>.
 
 profile:
   align: right
