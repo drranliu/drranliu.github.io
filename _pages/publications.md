@@ -30,8 +30,8 @@ R Liu, E McLaughlin, K Koedinger. (2014). [Interpreting model discovery and test
 
 L Emberson, R Liu, J Zevin. (2013). [Is statistical learning constrained by lower level perceptual organization?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020322/){:target="\_blank"} Cognition.
 
-E Laing, R Liu, A Lotto, L Holt. (2012). [Tuned with a tune: Talker normalization via general auditory processes](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00203/full){:target="\_blank"} Frontiers in Psychology.
+E Laing, R Liu, A Lotto, L Holt. (2012). [Tuned with a tune: Talker normalization via general auditory processes.](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00203/full){:target="\_blank"} Frontiers in Psychology.
 
-R Liu, L Holt. (2011). [Neural changes associated with nonspeech auditory category learning parallel those of speech category acquisition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945418/){:target="\_blank"} Journal of Cognitive Neuroscience.
+R Liu, L Holt. (2011). [Neural changes associated with nonspeech auditory category learning parallel those of speech category acquisition.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945418/){:target="\_blank"} Journal of Cognitive Neuroscience.
 
 L Emberson, R Liu, J Zevin. (2009). [Statistics all the way down: How is statistical learning accomplished using varying productions of novel, complex sound categories?](https://cloudfront.escholarship.org/dist/prd/content/qt2c94h5mj/qt2c94h5mj.pdf){:target="\_blank"} Proceedings of the 31st Annual Meeting of the Cognitive Science Society.
