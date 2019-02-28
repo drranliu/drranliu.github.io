@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Ran <strong>Liu</strong>
-description: Chief Data Scientist, <a href="https://mari.com/">MARi</a>.
+description: Chief Data Scientist, <a href="https://mari.com/" target="blank">MARi</a>.
 
 profile:
   align: right
