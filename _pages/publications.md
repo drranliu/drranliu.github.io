@@ -4,6 +4,8 @@ permalink: /publications/
 title: publications
 ---
 
+C Rosé, E McLaughlin, R Liu, K Koedinger. (2019). Explanatory Learner Models: Why Machine Learning (Alone) is not the Answer. British Journal of Educational Technology.
+
 R Liu, J Stamper, J Davenport, S Crossley, D McNamara, K Nzinga, B Sherin. (2018). [Learning linkages: Integrating data streams of multiple modalities and timescales.](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12315){:target="\_blank"} Journal of Computer-Assisted Learning.
 
 R Liu, K Koedinger. (2017). [Going beyond better data prediction to create explanatory models of educational data.](https://solaresearch.org/hla-17/hla17-chapter6/){:target="\_blank"} Handbook of Learning Analytics, First Edition.
