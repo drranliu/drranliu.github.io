@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 ---
 
-C Rosé, E McLaughlin, R Liu, K Koedinger. (2019). Explanatory Learner Models: [Why Machine Learning (Alone) is not the Answer.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjet.12858){:target="\_blank"} British Journal of Educational Technology.
+C Rosé, E McLaughlin, R Liu, K Koedinger. (2019). [Explanatory Learner Models: Why Machine Learning (Alone) is not the Answer.](https://onlinelibrary.wiley.com/doi/full/10.1111/bjet.12858){:target="\_blank"} British Journal of Educational Technology.
 
 R Liu, J Stamper, J Davenport, S Crossley, D McNamara, K Nzinga, B Sherin. (2018). [Learning linkages: Integrating data streams of multiple modalities and timescales.](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12315){:target="\_blank"} Journal of Computer-Assisted Learning.
 
