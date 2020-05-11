@@ -16,4 +16,4 @@ Hi!  My name is Ran Liu.  I’m a scientist and problem-solver interested in usi
 
 I have an extensive academic background working on data science (post-doctoral) and cognitive science (doctoral) research at Carnegie Mellon University.
 
-Currently, I work at <a href="https://www.amiralearning.com/" target="blank">Amira Learning</a> on developing machine learning and neural network approaches to detecting and classifying miscues in children's speech as they learn to read out loud.
+At <a href="https://www.amiralearning.com/" target="blank">Amira Learning</a>, I'm currently developing machine learning and neural network approaches to detecting and classifying miscues in children's speech as they learn to read out loud.
